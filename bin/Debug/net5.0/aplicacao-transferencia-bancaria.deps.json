@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "aplicacao-transferencia-bancaria/1.0.0": {
+        "runtime": {
+          "aplicacao-transferencia-bancaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aplicacao-transferencia-bancaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

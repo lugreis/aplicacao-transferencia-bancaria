@@ -1,0 +1,16 @@
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\bin\Debug\net5.0\aplicacao-transferencia-bancaria.exe
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\bin\Debug\net5.0\aplicacao-transferencia-bancaria.deps.json
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\bin\Debug\net5.0\aplicacao-transferencia-bancaria.runtimeconfig.json
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\bin\Debug\net5.0\aplicacao-transferencia-bancaria.runtimeconfig.dev.json
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\bin\Debug\net5.0\aplicacao-transferencia-bancaria.dll
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\bin\Debug\net5.0\ref\aplicacao-transferencia-bancaria.dll
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\bin\Debug\net5.0\aplicacao-transferencia-bancaria.pdb
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\obj\Debug\net5.0\aplicacao-transferencia-bancaria.csprojAssemblyReference.cache
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\obj\Debug\net5.0\aplicacao-transferencia-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\obj\Debug\net5.0\aplicacao-transferencia-bancaria.AssemblyInfoInputs.cache
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\obj\Debug\net5.0\aplicacao-transferencia-bancaria.AssemblyInfo.cs
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\obj\Debug\net5.0\aplicacao-transferencia-bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\obj\Debug\net5.0\aplicacao-transferencia-bancaria.dll
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\obj\Debug\net5.0\ref\aplicacao-transferencia-bancaria.dll
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\obj\Debug\net5.0\aplicacao-transferencia-bancaria.pdb
+C:\Users\Luciana\Documents\repos\aplicacao-transferencia-bancaria\obj\Debug\net5.0\aplicacao-transferencia-bancaria.genruntimeconfig.cache
